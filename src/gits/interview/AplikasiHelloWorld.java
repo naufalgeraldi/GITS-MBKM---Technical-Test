@@ -54,7 +54,7 @@ public class AplikasiHelloWorld extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setText("Hasil");
+        jLabel3.setToolTipText("Hasil");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
